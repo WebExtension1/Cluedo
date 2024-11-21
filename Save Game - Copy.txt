@@ -1,0 +1,15 @@
+Classic
+15
+0
+Player,Easy,Easy,N,N,N
+1,1,1,N,N,N
+E,e,4
+C,b,6,2,D,5
+3,9,1,7,8,d
+a,c,A,f,B,F
+N
+N
+N
+119,34,125,163,186,187
+False
+0

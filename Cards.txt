@@ -1,0 +1,143 @@
+Classic
+Classic
+Red
+Classic
+Reverend Green,Colonel Mustard,Mrs Peacock,Professor Plum,Miss Scarlett,Mrs White
+Dagger,Gun,Candlestick,Pipe,Rope,Wrench
+Kitchen,Ballroom,Conservatory,Billiard Room,Library,Study,Hall,Lounge,Dining Room
+
+A Way Out
+Classic
+Red
+Classic
+Leo Caruso,Vincent Moretti,Harvey,Alex Caruso,Gary Moretti,Jasmine
+Hammer,Sander,Fists,Pump-Action,MP5,M14
+Prison,Barn,Home,Store,Hospital,Hanger,Plane,Compound,Construction Site
+
+Alien Isolation
+Classic
+Red
+Classic
+Alien,Amanda Ripley,Ellen Ripley,Nina Taylor,Henry Marlow,Christopher Samuels
+Flamethrower,Pipe Bomb,Molotov,Shotgun,Bolt Gun,Revolver
+Freight Shipping,Refinery Storage,Cargo Hold,Storage,Customs,Enternal Docks,External Docks,Shuttle Docking,Lobby
+
+Anthem
+Classic
+Red
+Classic
+Prometheus,Gaea,International 4-8818,Fraternity 2-5503,Solidarity 9-6347,Union 5-3992
+Warden,Havoc,Constrictor,Deadeye,Mauler,Lurker
+High Road,Academy Ruins,Monument Watch,Fortress of Dawn,Valley of Tarsis,Great Falls Canyon,Emerald Abyss,East Gate,Eastern Reach
+
+Apex Legends
+Classic
+Red
+Classic
+Wraith,Horizon,Lifeline,Wattson,Bloodhound,Pathfinder
+VK-47 Flatline,Volt SMG,M600 Spitfire,Triple Take,Sentinel,Peacekeeper
+The Dome,The Tree,Lava City,Thermal Station,The Geyser,The Train Yard,Overlook,Drill Site,Refinery
+
+Ark: Survival Evolved
+Classic
+Red
+Classic
+Santiago,Raia,Diana Altaras,Helena Walker,Edmund Rockwell,John Dahkeya
+Pike,Assault Rifle,Bow,Lasso,Cannon,C4
+The Maw,The Western Coast,The Red Peak,Herbivore Island,The Eastern Forest,The Northern Coast,Southern Jungle,Cragg's Island,Far's Peak
+
+Assassin's Creed Valhalla
+Classic
+Red
+Classic
+Eivor,Sigurd,Basim,Randvi,Layla,Ivarr
+Axe,Shield,Hammer,Bow & Arrow,Arc,Spear
+Lunden,Jorvik,Cent,Essexe,Suthsexe,East Anglia,Vinland,Asgard,Jotunheim
+
+Bugsnax
+Classic
+Red
+Classic
+Chandlo Funkbun,Snorpy Fizzlebean,Filbo Fiddlepie,Flooty Fizzlebean,Gramble Gigglefunny,Eggabell Batternugget
+Bug Net,Launchpad,Sauce Slinger,Snak Trap,Snakgrappler,Trip Shot
+Flavour Falls,Garden Grove,Snakburg,Simmering Springs,Scorched Gorge,Boiling Bay,Sizzlin' Sands,Sugarpine Woods,Frozen Peaks
+
+Destiny
+Classic
+Red
+Classic
+Cayde-6,Commander Zavala,Ikora Rey,Eris Morn,Paladin,Guardian
+Ice Breaker,Gjallarhorn,Fatabringer,Vision of Confluence,Black Hammer,Suros Regime
+Tower,Titan,Mercury,Moon,Earth,Cosmodrone,Europa,The Tangled Shore,The Dreaming City
+
+Disney Hollywood Tower of Terror
+Classic
+Red
+Classic
+Pete,Donald Duck,Daisy Duck,Goofy,Minnie Mouse,Mickey Mouse
+Film Reel,Clapboard,Room Key,Script,Camera,Mickey Statuette
+Kitchen,Tip Top Club,Terrace,Billiard Room,Library,Guest Room #1313,Lobby,Lounge,Boiler Room
+
+Fallout 4
+Classic
+Red
+Classic
+Nick Valentine,Conrad Kellogg,Preston Garvey,Elder Maxson,Codsworth,Deacon
+Aeternus,Ashmaker,Wazer Wifle,Prototype UP77,The Gainer,Reba
+Concord,Salem,Boston,South Boston,Quincy,Medford,Weston,Natick,Cambridge
+
+Far Cry 5
+Classic
+Red
+Classic
+Dutch,Virgil Minkler,Faith Seed,Jacob Seed,John Seed,Joseph Seed
+Flamethrower,Magnopulser,RPG-7,Slingshot,Nerve Reaper,Nut Hugger
+Cult Compound,Dutch's Island,Hebane River,Holland Valley,Whitetail Mountains,Joseph's Region,Arcade,Vietnam,Mars
+
+Five Nights at Freddy's: Security Breach
+Classic
+Red
+Classic
+Gregory,Freddy,Chica,Monty,Roxanne,Vanny
+Gift Box,Flashlight,Fazerblaster,Faz-Camera,Backstage Pass,Monty's Claws
+Atrium,Daycare,Fazer Blast,Fazcade,Gator Golf,Lobby,Roxy Raceway,Sewers,Utility Tunnels
+
+Grand Theft Auto V
+Classic
+Red
+Classic
+Franklin,Lester,Michael,Dave,Trevor,Simeon
+Heavy Sniper,RPG,Bullpup Rifle,Carbine Rifle,Railgun,Sticky Bomb
+Pillbox Hill,Rockford Hills,Vinewood,Strawberry,La Puerta,Mirror Park,La Mesa,Del Perro,Vespucci Beach
+
+Marvel's Spiderman
+Classic
+Red
+Classic
+Otto Octavius,Mary Jane,Felicia Hardy,Miles Morales,Peter Parker,Martin Li
+Web Shooter,Impact Web,Spider-Drone,Electric Web,Web Bomb,Trip Mine
+Harlem,Upper West Side,Central Park,Upper East Side,Midtown,Hell's Kitchen,Greenwich,Chinatown,Financial District
+
+Monopoly
+Classic
+Red
+Classic
+Dog,Horse,Shoe,Cat,Penguin,Duck
+Iron,Battleship,Car,Cannon,Wheelbarrow,T-Rex
+Old Kent Road,Euston Road,Whitehall,Vine Street,Trafalgar Square,Piccadilly,Oxford Street,Mayfair,Prison
+
+Resident Evil 7: Biohazard
+Classic
+Red
+Classic
+Ethan Winters,Mia Winters,Jack Baker,Lucas Baker,Marguerite Baker,Eveline
+M21 Shotgun,Tactical Knife,Chainsaw,Crowbar,Grenade Launcher,Axe
+Main House,Old House,Yard,Testing Area,Boat House,Wrecked Ship,Swamp,Salt Mine,Guest House
+
+Toy Story 3
+Classic
+Red
+Classic
+Buzz Lightyear,Woody,Lots-O-Huggin' Bear,Bonnie,Andy,Jessie
+Rocket,RC Car,Snake,Lasso,Memorabilia,Zurg Part
+Andy's House,Daisy's House,Bonnie's House,The Box,Vending Machine,Butterfly Room,Caterpillar Room,Incinerator,Ken's Dream House

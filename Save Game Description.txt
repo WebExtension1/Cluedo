@@ -1,0 +1,21 @@
+Classic                         - Theme
+1                               - Round (1+)
+0                               - Turn (index, 0-5)
+Player,Easy,Easy,N,N,N          - Player Order
+4,4,4,N,N,N                     - Final Guesses
+D,a,5                           - Middle Cards
+F,E,2,e,1,C                     - Player 1 Cards
+8,B,9,d,b,7                     - Player 2 Cards
+A,4,c,3,f,6                     - Player 3 Cards
+N                               - Player 4 Cards
+N                               - Player 5 Cards
+N                               - Player 6 Cards
+35,34,125,163,186,187           - Players location (buttonArray index, 0-187)
+False                           - Gamerule Move Players (True or False)
+0                               - Time Limit (0 is no limit)
+
+-----------------------------------------------------------------------------
+
+a,b,c,d,e,f                     - Weapons
+A,B,C,D,E,F                     - Characters
+1,2,3,4,5,6,7,8,9               - Rooms

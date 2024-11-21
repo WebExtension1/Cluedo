@@ -1,0 +1,32 @@
+E:\College USB\Computer Science USB\NEA - Cluedo\Cluedo\Cluedo\bin\Debug\Cluedo.exe.config
+E:\College USB\Computer Science USB\NEA - Cluedo\Cluedo\Cluedo\bin\Debug\Cluedo.exe
+E:\College USB\Computer Science USB\NEA - Cluedo\Cluedo\Cluedo\bin\Debug\Cluedo.pdb
+E:\College USB\Computer Science USB\NEA - Cluedo\Cluedo\Cluedo\obj\Debug\Cluedo.Properties.Resources.resources
+E:\College USB\Computer Science USB\NEA - Cluedo\Cluedo\Cluedo\obj\Debug\Cluedo.csproj.GenerateResource.cache
+E:\College USB\Computer Science USB\NEA - Cluedo\Cluedo\Cluedo\obj\Debug\Cluedo.csproj.CoreCompileInputs.cache
+E:\College USB\Computer Science USB\NEA - Cluedo\Cluedo\Cluedo\obj\Debug\Cluedo.exe
+E:\College USB\Computer Science USB\NEA - Cluedo\Cluedo\Cluedo\obj\Debug\Cluedo.pdb
+E:\College USB\Computer Science USB\NEA - Cluedo\Cluedo\Cluedo\obj\Debug\Cluedo.Cluedo.resources
+E:\College USB\Computer Science USB\NEA - Cluedo\Cluedo\Cluedo\obj\Debug\Cluedo.csproj.AssemblyReference.cache
+D:\College USB\Computer Science USB\NEA - Cluedo\Cluedo\Cluedo\bin\Debug\Cluedo.exe.config
+D:\College USB\Computer Science USB\NEA - Cluedo\Cluedo\Cluedo\bin\Debug\Cluedo.exe
+D:\College USB\Computer Science USB\NEA - Cluedo\Cluedo\Cluedo\bin\Debug\Cluedo.pdb
+D:\College USB\Computer Science USB\NEA - Cluedo\Cluedo\Cluedo\obj\Debug\Cluedo.csproj.AssemblyReference.cache
+D:\College USB\Computer Science USB\NEA - Cluedo\Cluedo\Cluedo\obj\Debug\Cluedo.Cluedo.resources
+D:\College USB\Computer Science USB\NEA - Cluedo\Cluedo\Cluedo\obj\Debug\Cluedo.Properties.Resources.resources
+D:\College USB\Computer Science USB\NEA - Cluedo\Cluedo\Cluedo\obj\Debug\Cluedo.csproj.GenerateResource.cache
+D:\College USB\Computer Science USB\NEA - Cluedo\Cluedo\Cluedo\obj\Debug\Cluedo.csproj.CoreCompileInputs.cache
+D:\College USB\Computer Science USB\NEA - Cluedo\Cluedo\Cluedo\obj\Debug\Cluedo.exe
+D:\College USB\Computer Science USB\NEA - Cluedo\Cluedo\Cluedo\obj\Debug\Cluedo.pdb
+D:\College USB\Computer Science USB\NEA - Cluedo\Cluedo\Cluedo\obj\Debug\Cluedo.csproj.SuggestedBindingRedirects.cache
+N:\My Documents\NEA - Cluedo\Cluedo\Cluedo\obj\Debug\Cluedo.csproj.AssemblyReference.cache
+N:\My Documents\NEA - Cluedo\Cluedo\Cluedo\obj\Debug\Cluedo.csproj.SuggestedBindingRedirects.cache
+N:\My Documents\NEA - Cluedo\Cluedo\Cluedo\obj\Debug\Cluedo.Cluedo.resources
+N:\My Documents\NEA - Cluedo\Cluedo\Cluedo\obj\Debug\Cluedo.Properties.Resources.resources
+N:\My Documents\NEA - Cluedo\Cluedo\Cluedo\obj\Debug\Cluedo.csproj.GenerateResource.cache
+N:\My Documents\NEA - Cluedo\Cluedo\Cluedo\obj\Debug\Cluedo.csproj.CoreCompileInputs.cache
+N:\My Documents\NEA - Cluedo\Cluedo\Cluedo\obj\Debug\Cluedo.exe
+N:\My Documents\NEA - Cluedo\Cluedo\Cluedo\obj\Debug\Cluedo.pdb
+N:\My Documents\NEA - Cluedo\Cluedo\Cluedo\bin\Debug\Cluedo.exe.config
+N:\My Documents\NEA - Cluedo\Cluedo\Cluedo\bin\Debug\Cluedo.exe
+N:\My Documents\NEA - Cluedo\Cluedo\Cluedo\bin\Debug\Cluedo.pdb

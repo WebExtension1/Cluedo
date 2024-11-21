@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cluedo", "Cluedo\Cluedo.csproj", "{491AF9E3-C5D9-435E-8C7F-895404D51FE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu", "Menu\Menu.csproj", "{6924E2C3-1460-45F2-B811-19BB2DCCA608}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnswerSheet", "AnswerSheet\AnswerSheet.csproj", "{770C27F2-76D6-4AB1-877E-CC6BD6201734}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Files", "Files", "{9CA795D9-EF5A-4019-9C54-76552BA62F41}"
+	ProjectSection(SolutionItems) = preProject
+		AnswerSheet.txt = AnswerSheet.txt
+		Cards.txt = Cards.txt
+		Save Games.txt = Save Games.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{491AF9E3-C5D9-435E-8C7F-895404D51FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{491AF9E3-C5D9-435E-8C7F-895404D51FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{491AF9E3-C5D9-435E-8C7F-895404D51FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{491AF9E3-C5D9-435E-8C7F-895404D51FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6924E2C3-1460-45F2-B811-19BB2DCCA608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6924E2C3-1460-45F2-B811-19BB2DCCA608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6924E2C3-1460-45F2-B811-19BB2DCCA608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6924E2C3-1460-45F2-B811-19BB2DCCA608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{770C27F2-76D6-4AB1-877E-CC6BD6201734}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770C27F2-76D6-4AB1-877E-CC6BD6201734}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770C27F2-76D6-4AB1-877E-CC6BD6201734}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770C27F2-76D6-4AB1-877E-CC6BD6201734}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16FD2912-C746-4196-B518-7D123C5542B4}
+	EndGlobalSection
+EndGlobal
